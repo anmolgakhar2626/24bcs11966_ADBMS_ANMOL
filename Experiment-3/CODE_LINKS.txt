@@ -1,0 +1,4 @@
+
+1.  https://www.codechef.com/learn/course/sql-intermediate/SQ00BS08/problems/GSQ82
+2.  https://leetcode.com/problems/customers-who-never-order/submissions/2081961354/
+3.  https://leetcode.com/problems/employee-bonus/submissions/2081961274/
