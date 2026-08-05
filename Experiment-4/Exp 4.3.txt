@@ -1,0 +1,11 @@
+https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01F?tab=statement
+
+4.3
+SELECT c.customer_name, p.product_name
+FROM customers c
+CROSS JOIN products p;
+
+
+
+
+
